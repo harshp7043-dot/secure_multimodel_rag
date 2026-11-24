@@ -1,0 +1,15 @@
+
+pymupdf
+numpy
+torch
+pillow
+python-dotenv
+transformers
+sentence-transformers
+faiss-cpu
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+accelerate
+streamlit

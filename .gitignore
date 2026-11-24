@@ -1,0 +1,27 @@
+
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secrets and user data
+users.json
+audit_log.jsonl
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model cache
+.cache/
+huggingface_cache/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
